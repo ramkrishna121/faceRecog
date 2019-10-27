@@ -1,6 +1,6 @@
 # Automatic attendance system
 
-Functionalities:
+#Functionalities:
  
  1)Create dataset:
     This method is very helpful as this very option provides the registration part to every individual
