@@ -1,8 +1,8 @@
 # Automatic attendance system
 
-#Functionalities:
+# Functionalities:
  
- 1)Create dataset:
+ 1)Create Dataset:
     This method is very helpful as this very option provides the registration part to every individual
     student. For every new registration at first it asks to provide the enrollment number and then
     an unique ID is created the database for that enrollment number.
@@ -32,3 +32,4 @@
     system starts matching the it with all the encodings in the database. If there is any match found
     then the all the details of that student is shown.
     
+
